@@ -16,7 +16,7 @@
 
 ## Repogitory
 
-### 1. Libray - 테스트 및 Study 한 자료들 Repository [링크](https://github.com/hiio420official/library.git)
+- Libray - 테스트 및 Study 한 자료들 Repository [링크](https://github.com/hiio420official/library.git)
 
 ## Career
 
